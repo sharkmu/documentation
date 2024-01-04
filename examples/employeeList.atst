@@ -1,0 +1,16 @@
+@employee {
+   firstName: String,
+   lastName: String
+}
+
+employeeList: @employee[] [
+    @employee {
+        firstName: "Olivia",
+        lastName: "Smith"
+        message: "Properties without a type description are always going to be Any."
+    },
+    @employee {
+        firstName: "Grace",
+        lastName: "Hill"
+    },
+]
