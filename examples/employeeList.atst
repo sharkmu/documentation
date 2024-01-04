@@ -12,5 +12,5 @@ employeeList: @employee[] [
     @employee {
         firstName: "Grace",
         lastName: "Hill"
-    },
+    }
 ]
