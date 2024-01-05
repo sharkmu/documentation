@@ -6,7 +6,7 @@
 employeeList: @employee[] [
     @employee {
         firstName: "Olivia",
-        lastName: "Smith"
+        lastName: "Smith",
         message: "Properties without a type description are always going to be Any."
     },
     @employee {
