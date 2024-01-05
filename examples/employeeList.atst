@@ -1,7 +1,7 @@
 @employee {
    firstName: String,
    lastName: String
-}
+},
 
 employeeList: @employee[] [
     @employee {
