@@ -15,7 +15,7 @@ companies: @company[] [
         ]
     },
     @company {
-    name: "Microsoft",
+        name: "Microsoft",
         locations: [
             "Asia Pacific",
             "Europe",
@@ -27,7 +27,7 @@ companies: @company[] [
         ]
     },
     @company {
-    name: "Vercel",
+        name: "Vercel",
         locations: [
             "United States",
             "Germany",
