@@ -1,0 +1,6 @@
+@ {
+    fileName: String,
+},
+
+fileName: "topLevel.atst",
+message: "Properties without a type description are always going to be Any."
